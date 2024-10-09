@@ -1,0 +1,32 @@
+body{
+    background:radial-gradient(#e5e5e5,#fff,#e5e5e5);
+}
+.card{
+    width:20rem;
+}
+.card:hover{
+    box-shadow:2px 10px 20px 10px rgba(0, 0, 0, 0.253)!important
+}
+.card-body{
+    padding:3rem 0!important;
+}
+.card-text{
+    font-size:.9rem;
+    padding:0.4rem 1.9rem;
+}
+.overflow{
+    overflow: hidden;
+}
+.container-fluid .row{
+    padding-top:6rem;
+}
+.card-img{
+    padding:1rem;
+    width:300px;
+    height:320px;
+    transform:scale(1);
+    transition:transform 0.5s ease;
+}
+.card-img:hover{
+   transform:scale(1.8);
+}

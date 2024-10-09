@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "joi": "^17.13.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.5",
+    "styled-components": "^6.1.13",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +43,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh": "^2.8.9",
+    "gh-pages": "^6.1.1",
+    "pages": "^0.0.16"
   }
 }
