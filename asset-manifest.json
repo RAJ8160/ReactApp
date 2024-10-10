@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.b0968b4e.css",
+    "main.js": "/ReactApp/static/js/main.5bff5a90.js",
+    "static/js/453.aad7dea5.chunk.js": "/ReactApp/static/js/453.aad7dea5.chunk.js",
+    "static/media/people-2564989_640.jpg": "/ReactApp/static/media/people-2564989_640.f5c372cedd302cbd242c.jpg",
+    "index.html": "/ReactApp/index.html",
+    "main.b0968b4e.css.map": "/ReactApp/static/css/main.b0968b4e.css.map",
+    "main.5bff5a90.js.map": "/ReactApp/static/js/main.5bff5a90.js.map",
+    "453.aad7dea5.chunk.js.map": "/ReactApp/static/js/453.aad7dea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0968b4e.css",
+    "static/js/main.5bff5a90.js"
+  ]
+}
